@@ -4,7 +4,7 @@
  </head>
  <body>
  <?php
-echo '<p>Hello World - error test</p>'; ?> 
+echo '<p>Hello World - set error test</p>'; ?> 
  <br/>
  <?php
 
